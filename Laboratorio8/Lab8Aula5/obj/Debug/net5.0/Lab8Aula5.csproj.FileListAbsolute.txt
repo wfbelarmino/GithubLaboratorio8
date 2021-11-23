@@ -1,0 +1,5 @@
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Lab8Aula5\obj\Debug\net5.0\Lab8Aula5.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Lab8Aula5\obj\Debug\net5.0\Lab8Aula5.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Lab8Aula5\obj\Debug\net5.0\Lab8Aula5.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Lab8Aula5\obj\Debug\net5.0\Lab8Aula5.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Lab8Aula5\obj\Debug\net5.0\Lab8Aula5.csproj.CoreCompileInputs.cache

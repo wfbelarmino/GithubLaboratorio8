@@ -1,0 +1,16 @@
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.exe
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.deps.json
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.runtimeconfig.json
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.runtimeconfig.dev.json
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.dll
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\ref\Laboratorio8.dll
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\bin\Debug\net5.0\Laboratorio8.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.csproj.AssemblyReference.cache
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.AssemblyInfoInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.AssemblyInfo.cs
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.dll
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\ref\Laboratorio8.dll
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.pdb
+C:\PROJETOS\CYBERTRON\Laboratorio8\Laboratorio8\Laboratorio8\obj\Debug\net5.0\Laboratorio8.genruntimeconfig.cache
